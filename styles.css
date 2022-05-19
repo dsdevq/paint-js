@@ -30,9 +30,6 @@ body {
     align-items: center;
 }
 
-.controls .controls__btns {
-}
-
 .controls__btns button {
     all: unset;
     cursor: pointer;
